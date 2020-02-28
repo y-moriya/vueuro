@@ -1,0 +1,24 @@
+{
+  "name": "vueuro",
+  "version": "1.0.0",
+  "description": "- [matome](https://twitter.com/euro_s/lists/matome)\r - [hatena](https://b.hatena.ne.jp)\r - [FEH](https://twitter.com/FE_Heroes_JP)\r - [baseball](https://www.nikkansports.com/baseball/professional/score/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-moriya/vueuro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-moriya/vueuro/issues"
+  },
+  "homepage": "https://github.com/y-moriya/vueuro#readme",
+  "dependencies": {
+    "vuepress": "^1.3.1"
+  }
+}
