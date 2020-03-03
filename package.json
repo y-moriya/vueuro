@@ -4,7 +4,7 @@
   "description": "- [matome](https://twitter.com/euro_s/lists/matome)\r - [hatena](https://b.hatena.ne.jp)\r - [FEH](https://twitter.com/FE_Heroes_JP)\r - [baseball](https://www.nikkansports.com/baseball/professional/score/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev",
     "docs:build": "vuepress build"
   },
   "repository": {
