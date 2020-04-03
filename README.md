@@ -9,3 +9,6 @@
 - [real](http://real.gunjobiyori.com/sow.cgi?css=text)
 - [trello](https://erails.herokuapp.com/static_pages/trello)
 - [Yahoo](https://www.yahoo.co.jp/)
+- Pixela
+  - [tw](https://pixe.la/v1/users/euro/graphs/twitter.html)
+  - [asken](https://pixe.la/v1/users/euro/graphs/asken.html)
