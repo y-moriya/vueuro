@@ -6,7 +6,7 @@
 - [hanshin](https://twitter.com/hanshintigersjp)
 - [sportsnavi](https://baseball.yahoo.co.jp/npb)
 - [NejireLogin](http://nejiten.halfmoon.jp/index.cgi)
-- [Nejire99](http://nejiten.halfmoon.jp/index.cgi?vid=16656#form)
+- [Nejire99](http://nejiten.halfmoon.jp/index.cgi?vid=16986#form)
 - [real](http://real.gunjobiyori.com/sow.cgi?css=text)
 - [trello](https://erails.herokuapp.com/static_pages/trello)
 - [Yahoo](https://www.yahoo.co.jp/)
