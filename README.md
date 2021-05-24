@@ -7,7 +7,6 @@
 - [sportsnavi](https://baseball.yahoo.co.jp/npb)
 - [trello](https://erails.herokuapp.com/static_pages/trello)
 - [Yahoo](https://www.yahoo.co.jp/)
-- [AtCoderProblems](https://kenkoooo.com/atcoder/#/table/ymoriya)
 - Pixela
   - [tw](https://pixe.la/v1/users/euro/graphs/twitter.html)
   - [asken](https://pixe.la/v1/users/euro/graphs/asken.html)
