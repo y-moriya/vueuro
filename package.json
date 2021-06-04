@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/y-moriya/vueuro#readme",
   "dependencies": {
+    "node-fetch": "^2.6.1",
     "vuepress": "^1.3.1"
   }
 }
