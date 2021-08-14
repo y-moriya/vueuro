@@ -7,33 +7,47 @@
 ![map](https://img.gamewith.jp/img/original_c53e3774b275b328f98db4eb4aa2ef52.jpg)
 
 - A 強暴な氷雪のリザードマンⅣ
-  - 剣 斧 杖 炎 闇
   - パーティ10
 - B 獰猛な魔導機兵(氷)・別型
-  - 杖 炎 雷 光
-  - パーティ10
+  - パーティ6
 
 ### ウォルド砦跡
 
 ![map](https://img.gamewith.jp/img/original_6d2f51872394a2256ff90a77dc095b64.jpg)
 
 - A 強暴な平原の大フロッゲンⅡ
-  - 短剣 本 氷 雷 闇
   - パーティ10
 - B 獰猛なフタガシラヘビ
-  - 槍 短剣 杖 氷 光
   - パーティ10
 
 ### 導火の雪渓
 
 ![map](https://img.gamewith.jp/img/original_cb3bc67faf4d7f06789fa5f0629e17e9.jpg)
 
-- A 強暴なブラウブル
-  - 剣 短剣 斧 炎 雷
-  - パーティ10
 - B 獰猛なキャットリン(雪)
-  - 槍 杖 本 炎 風
-  - パーティ1
+  - パーティ5
+
+## 追憶の塔
+
+### 戦いの篝火 -雪Ⅱ-
+
+![map](https://img.gamewith.jp/img/original_6d15344857c08709b688d2df22e0689c.jpg)
+
+- I 獰猛なキャットリン(雪)
+  - パーティ5
+- M 強暴な氷雪のリザードマンⅣ
+  - パーティ10
+- N 獰猛な魔導機兵(氷)・別型
+  - パーティ6
+
+### 戦いの篝火 -平原Ⅱ-
+
+![map](https://img.gamewith.jp/img/original_e89f3ec6e6426d2abff70d716ee148e1.jpg)
+
+- E 強暴な平原の大フロッゲンⅡ
+  - パーティ10
+- F 獰猛なフタガシラヘビ
+  - パーティ10
 
 ## 歴戦
 
