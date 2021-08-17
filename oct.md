@@ -25,7 +25,7 @@
 ![map](https://img.gamewith.jp/img/original_cb3bc67faf4d7f06789fa5f0629e17e9.jpg)
 
 - B 獰猛なキャットリン(雪)
-  - パーティ5
+  - パーティ1
 
 ## 追憶の塔
 
@@ -34,7 +34,7 @@
 ![map](https://img.gamewith.jp/img/original_6d15344857c08709b688d2df22e0689c.jpg)
 
 - I 獰猛なキャットリン(雪)
-  - パーティ5
+  - パーティ1
 - M 強暴な氷雪のリザードマンⅣ
   - パーティ10
 - N 獰猛な魔導機兵(氷)・別型
