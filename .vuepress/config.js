@@ -3,5 +3,10 @@ module.exports = {
     '/': {
       lang: 'ja'
     }
+  },
+  themeConfig: {
+    repo: 'y-moriya/vueuro',
+    repoLabel: 'GtiHub',
+    editLinks: true,
   }
 }
