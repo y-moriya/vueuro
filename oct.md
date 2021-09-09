@@ -2,6 +2,19 @@
 
 ## ダンジョン
 
+### 針柱の洞
+
+<details><summary>マップ</summary><div>
+
+![map](https://img.game8.jp/6147068/01cc1eccd4ef5bef41ebb7eecda391a8.png/show)
+
+</div></details>
+
+- A 強暴なテンジョウグモ別種
+  - パーティ9
+- B 獰猛な崖の大バーディアン
+  - パーティ4
+
 ### 原初の洞窟
 
 <details><summary>マップ</summary><div>
