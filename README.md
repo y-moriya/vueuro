@@ -1,5 +1,6 @@
 # matome
 
+- [Ruby on Rails ガイド](https://railsguides.jp/)
 - [matome](https://twitter.com/euro_s/lists/matome)
 - [hatena](https://b.hatena.ne.jp)
 - [FEH](https://twitter.com/FE_Heroes_JP)
@@ -7,6 +8,11 @@
 - [sportsnavi](https://baseball.yahoo.co.jp/npb)
 - [nejire MHR](http://nejiten.halfmoon.jp/index.cgi?vid=17093#form)
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/ymoriya)
+- [オクトラ](./oct.html)
+- Flutter
+  - [How to use Fluro with Flutter - Custom Routing/Transitions](./flutter_how_to_use_fluro.html)
+  - [Routing in Flutter using Fluro](./routeing_in_flutter_using_fluro.html)
+  - [Riverpod](https://y-moriya.github.io/river_pod/docs/getting_started)
 - Pixela
   - [tw](https://pixe.la/v1/users/euro/graphs/twitter.html)
   - [weight](https://pixe.la/v1/users/euro/graphs/weight.html)
