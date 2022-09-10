@@ -13,6 +13,12 @@
   - [tw](https://pixe.la/v1/users/euro/graphs/twitter.html)
   - [weight](https://pixe.la/v1/users/euro/graphs/weight.html)
 
+## Cypress
+
+- [Cypress - TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/intro-1/cypress)
+- [Cypress の Guides 全部読む](https://zenn.dev/sa2knight/scraps/b5946489946802)
+- [Best Practice | Cypress](https://docs.cypress.io/guides/references/best-practices)
+
 ## Tweets  
 <iframe src="https://pixe.la/v1/users/euro/graphs/twitter.html?mode=simple" height="155" width="720" frameborder="0"></iframe>
 
