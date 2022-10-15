@@ -1,5 +1,6 @@
 # matome
 
+- [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja/)
 - [Microsoft REST API Guideline](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Ruby on Rails ガイド](https://railsguides.jp/)
 - [matome](https://twitter.com/euro_s/lists/matome)
