@@ -9,6 +9,8 @@
 - [sportsnavi](https://baseball.yahoo.co.jp/npb)
 - Pixela
   - [tw](https://pixe.la/v1/users/euro/graphs/twitter.html)
+- perplexity
+  - <https://www.perplexity.ai/search/storybooknohirutonoshe-ding-te-3U9vCmK.Q6SjtBjh3G7YhQ>
 
 ## Tweets
 
